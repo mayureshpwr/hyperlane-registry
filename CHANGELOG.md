@@ -1,5 +1,11 @@
 # @hyperlane-xyz/registry
 
+## 9.4.0
+
+### Minor Changes
+
+- 7718583: Deploy to monadtestnet, weavevmtestnet.
+
 ## 9.3.0
 
 ### Minor Changes
